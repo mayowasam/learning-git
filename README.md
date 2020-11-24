@@ -10,3 +10,7 @@ making changes and all
 ## just trying to confirm
 
 i just succeeded with my first git post from my local system
+
+## trying branching
+
+just doing the feaqture branch for the first time
